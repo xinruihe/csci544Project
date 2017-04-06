@@ -1,5 +1,5 @@
 (0,1,0,0)
-
+[0.0, 0.0, 0.8, 0.2]
 大厦
 when i'm walking down the street
 all the glass boxes round n' round
